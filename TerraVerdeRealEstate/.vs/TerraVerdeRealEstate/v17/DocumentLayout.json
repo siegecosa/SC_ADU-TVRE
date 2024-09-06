@@ -1,0 +1,357 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CJ Elarcosa\\source\\repos\\TerraVerdeMain\\TerraVerdeRealEstate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66699B03-F39F-4EE5-A402-DA4168C9D3B2}|TerraVerdeRealEstate\\TerraVerdeRealEstate.csproj|c:\\users\\cj elarcosa\\source\\repos\\terraverdemain\\terraverderealestate\\terraverderealestate\\2_uc (client)\\uc_c_transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66699B03-F39F-4EE5-A402-DA4168C9D3B2}|TerraVerdeRealEstate\\TerraVerdeRealEstate.csproj|solutionrelative:terraverderealestate\\2_uc (client)\\uc_c_transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66699B03-F39F-4EE5-A402-DA4168C9D3B2}|TerraVerdeRealEstate\\TerraVerdeRealEstate.csproj|c:\\users\\cj elarcosa\\source\\repos\\terraverdemain\\terraverderealestate\\terraverderealestate\\2_uc (seller)\\uc_s_transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66699B03-F39F-4EE5-A402-DA4168C9D3B2}|TerraVerdeRealEstate\\TerraVerdeRealEstate.csproj|solutionrelative:terraverderealestate\\2_uc (seller)\\uc_s_transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66699B03-F39F-4EE5-A402-DA4168C9D3B2}|TerraVerdeRealEstate\\TerraVerdeRealEstate.csproj|C:\\Users\\CJ Elarcosa\\source\\repos\\TerraVerdeMain\\TerraVerdeRealEstate\\terraverderealestate\\2_uc (seller)\\uc_s_transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66699B03-F39F-4EE5-A402-DA4168C9D3B2}|TerraVerdeRealEstate\\TerraVerdeRealEstate.csproj|solutionrelative:terraverderealestate\\2_uc (seller)\\uc_s_transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66699B03-F39F-4EE5-A402-DA4168C9D3B2}|TerraVerdeRealEstate\\TerraVerdeRealEstate.csproj|C:\\Users\\CJ Elarcosa\\source\\repos\\TerraVerdeMain\\TerraVerdeRealEstate\\terraverderealestate\\3_uc (small layouts)\\uc_individualproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66699B03-F39F-4EE5-A402-DA4168C9D3B2}|TerraVerdeRealEstate\\TerraVerdeRealEstate.csproj|solutionrelative:terraverderealestate\\3_uc (small layouts)\\uc_individualproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66699B03-F39F-4EE5-A402-DA4168C9D3B2}|TerraVerdeRealEstate\\TerraVerdeRealEstate.csproj|C:\\Users\\CJ Elarcosa\\source\\repos\\TerraVerdeMain\\TerraVerdeRealEstate\\terraverderealestate\\3_uc (small layouts)\\uc_individualproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66699B03-F39F-4EE5-A402-DA4168C9D3B2}|TerraVerdeRealEstate\\TerraVerdeRealEstate.csproj|solutionrelative:terraverderealestate\\3_uc (small layouts)\\uc_individualproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66699B03-F39F-4EE5-A402-DA4168C9D3B2}|TerraVerdeRealEstate\\TerraVerdeRealEstate.csproj|C:\\Users\\CJ Elarcosa\\source\\repos\\TerraVerdeMain\\TerraVerdeRealEstate\\terraverderealestate\\2_uc (seller)\\uc_s_properties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66699B03-F39F-4EE5-A402-DA4168C9D3B2}|TerraVerdeRealEstate\\TerraVerdeRealEstate.csproj|solutionrelative:terraverderealestate\\2_uc (seller)\\uc_s_properties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66699B03-F39F-4EE5-A402-DA4168C9D3B2}|TerraVerdeRealEstate\\TerraVerdeRealEstate.csproj|C:\\Users\\CJ Elarcosa\\source\\repos\\TerraVerdeMain\\TerraVerdeRealEstate\\terraverderealestate\\2_uc (seller)\\uc_s_properties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66699B03-F39F-4EE5-A402-DA4168C9D3B2}|TerraVerdeRealEstate\\TerraVerdeRealEstate.csproj|solutionrelative:terraverderealestate\\2_uc (seller)\\uc_s_properties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66699B03-F39F-4EE5-A402-DA4168C9D3B2}|TerraVerdeRealEstate\\TerraVerdeRealEstate.csproj|C:\\Users\\CJ Elarcosa\\source\\repos\\TerraVerdeMain\\TerraVerdeRealEstate\\terraverderealestate\\2_uc (client)\\uc_c_properties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66699B03-F39F-4EE5-A402-DA4168C9D3B2}|TerraVerdeRealEstate\\TerraVerdeRealEstate.csproj|solutionrelative:terraverderealestate\\2_uc (client)\\uc_c_properties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66699B03-F39F-4EE5-A402-DA4168C9D3B2}|TerraVerdeRealEstate\\TerraVerdeRealEstate.csproj|C:\\Users\\CJ Elarcosa\\source\\repos\\TerraVerdeMain\\TerraVerdeRealEstate\\terraverderealestate\\2_uc (client)\\uc_c_properties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66699B03-F39F-4EE5-A402-DA4168C9D3B2}|TerraVerdeRealEstate\\TerraVerdeRealEstate.csproj|solutionrelative:terraverderealestate\\2_uc (client)\\uc_c_properties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66699B03-F39F-4EE5-A402-DA4168C9D3B2}|TerraVerdeRealEstate\\TerraVerdeRealEstate.csproj|C:\\Users\\CJ Elarcosa\\source\\repos\\TerraVerdeMain\\TerraVerdeRealEstate\\terraverderealestate\\form_logreg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66699B03-F39F-4EE5-A402-DA4168C9D3B2}|TerraVerdeRealEstate\\TerraVerdeRealEstate.csproj|solutionrelative:terraverderealestate\\form_logreg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66699B03-F39F-4EE5-A402-DA4168C9D3B2}|TerraVerdeRealEstate\\TerraVerdeRealEstate.csproj|C:\\Users\\CJ Elarcosa\\source\\repos\\TerraVerdeMain\\TerraVerdeRealEstate\\terraverderealestate\\form_adminside.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66699B03-F39F-4EE5-A402-DA4168C9D3B2}|TerraVerdeRealEstate\\TerraVerdeRealEstate.csproj|solutionrelative:terraverderealestate\\form_adminside.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66699B03-F39F-4EE5-A402-DA4168C9D3B2}|TerraVerdeRealEstate\\TerraVerdeRealEstate.csproj|C:\\Users\\CJ Elarcosa\\source\\repos\\TerraVerdeMain\\TerraVerdeRealEstate\\terraverderealestate\\2_uc (seller)\\uc_s_propertydocumentation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66699B03-F39F-4EE5-A402-DA4168C9D3B2}|TerraVerdeRealEstate\\TerraVerdeRealEstate.csproj|solutionrelative:terraverderealestate\\2_uc (seller)\\uc_s_propertydocumentation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66699B03-F39F-4EE5-A402-DA4168C9D3B2}|TerraVerdeRealEstate\\TerraVerdeRealEstate.csproj|C:\\Users\\CJ Elarcosa\\source\\repos\\TerraVerdeMain\\TerraVerdeRealEstate\\terraverderealestate\\2_uc (seller)\\uc_s_propertydocumentation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66699B03-F39F-4EE5-A402-DA4168C9D3B2}|TerraVerdeRealEstate\\TerraVerdeRealEstate.csproj|solutionrelative:terraverderealestate\\2_uc (seller)\\uc_s_propertydocumentation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66699B03-F39F-4EE5-A402-DA4168C9D3B2}|TerraVerdeRealEstate\\TerraVerdeRealEstate.csproj|C:\\Users\\CJ Elarcosa\\source\\repos\\TerraVerdeMain\\TerraVerdeRealEstate\\terraverderealestate\\2_uc (seller)\\uc_s_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66699B03-F39F-4EE5-A402-DA4168C9D3B2}|TerraVerdeRealEstate\\TerraVerdeRealEstate.csproj|solutionrelative:terraverderealestate\\2_uc (seller)\\uc_s_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66699B03-F39F-4EE5-A402-DA4168C9D3B2}|TerraVerdeRealEstate\\TerraVerdeRealEstate.csproj|C:\\Users\\CJ Elarcosa\\source\\repos\\TerraVerdeMain\\TerraVerdeRealEstate\\terraverderealestate\\2_uc (seller)\\uc_s_viewmyproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66699B03-F39F-4EE5-A402-DA4168C9D3B2}|TerraVerdeRealEstate\\TerraVerdeRealEstate.csproj|solutionrelative:terraverderealestate\\2_uc (seller)\\uc_s_viewmyproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66699B03-F39F-4EE5-A402-DA4168C9D3B2}|TerraVerdeRealEstate\\TerraVerdeRealEstate.csproj|C:\\Users\\CJ Elarcosa\\source\\repos\\TerraVerdeMain\\TerraVerdeRealEstate\\terraverderealestate\\2_uc (seller)\\uc_s_viewmyproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66699B03-F39F-4EE5-A402-DA4168C9D3B2}|TerraVerdeRealEstate\\TerraVerdeRealEstate.csproj|solutionrelative:terraverderealestate\\2_uc (seller)\\uc_s_viewmyproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66699B03-F39F-4EE5-A402-DA4168C9D3B2}|TerraVerdeRealEstate\\TerraVerdeRealEstate.csproj|C:\\Users\\CJ Elarcosa\\source\\repos\\TerraVerdeMain\\TerraVerdeRealEstate\\terraverderealestate\\3_uc (small layouts)\\uc_s_recentclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66699B03-F39F-4EE5-A402-DA4168C9D3B2}|TerraVerdeRealEstate\\TerraVerdeRealEstate.csproj|solutionrelative:terraverderealestate\\3_uc (small layouts)\\uc_s_recentclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66699B03-F39F-4EE5-A402-DA4168C9D3B2}|TerraVerdeRealEstate\\TerraVerdeRealEstate.csproj|C:\\Users\\CJ Elarcosa\\source\\repos\\TerraVerdeMain\\TerraVerdeRealEstate\\terraverderealestate\\2_uc (seller)\\uc_s_sellingproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66699B03-F39F-4EE5-A402-DA4168C9D3B2}|TerraVerdeRealEstate\\TerraVerdeRealEstate.csproj|solutionrelative:terraverderealestate\\2_uc (seller)\\uc_s_sellingproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66699B03-F39F-4EE5-A402-DA4168C9D3B2}|TerraVerdeRealEstate\\TerraVerdeRealEstate.csproj|C:\\Users\\CJ Elarcosa\\source\\repos\\TerraVerdeMain\\TerraVerdeRealEstate\\terraverderealestate\\2_uc (client)\\uc_c_buyingproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{66699B03-F39F-4EE5-A402-DA4168C9D3B2}|TerraVerdeRealEstate\\TerraVerdeRealEstate.csproj|solutionrelative:terraverderealestate\\2_uc (client)\\uc_c_buyingproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66699B03-F39F-4EE5-A402-DA4168C9D3B2}|TerraVerdeRealEstate\\TerraVerdeRealEstate.csproj|C:\\Users\\CJ Elarcosa\\source\\repos\\TerraVerdeMain\\TerraVerdeRealEstate\\terraverderealestate\\2_uc (client)\\uc_c_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66699B03-F39F-4EE5-A402-DA4168C9D3B2}|TerraVerdeRealEstate\\TerraVerdeRealEstate.csproj|solutionrelative:terraverderealestate\\2_uc (client)\\uc_c_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66699B03-F39F-4EE5-A402-DA4168C9D3B2}|TerraVerdeRealEstate\\TerraVerdeRealEstate.csproj|C:\\Users\\CJ Elarcosa\\source\\repos\\TerraVerdeMain\\TerraVerdeRealEstate\\terraverderealestate\\2_uc (seller)\\uc_s_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66699B03-F39F-4EE5-A402-DA4168C9D3B2}|TerraVerdeRealEstate\\TerraVerdeRealEstate.csproj|solutionrelative:terraverderealestate\\2_uc (seller)\\uc_s_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 178,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UC_C_Transactions.cs",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\TerraVerdeMain\\TerraVerdeRealEstate\\TerraVerdeRealEstate\\2_UC (Client)\\UC_C_Transactions.cs",
+              "RelativeDocumentMoniker": "TerraVerdeRealEstate\\2_UC (Client)\\UC_C_Transactions.cs",
+              "ToolTip": "C:\\Users\\CJ Elarcosa\\source\\repos\\TerraVerdeMain\\TerraVerdeRealEstate\\TerraVerdeRealEstate\\2_UC (Client)\\UC_C_Transactions.cs",
+              "RelativeToolTip": "TerraVerdeRealEstate\\2_UC (Client)\\UC_C_Transactions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T05:27:40.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UC_IndividualProperties.cs",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\TerraVerdeMain\\TerraVerdeRealEstate\\TerraVerdeRealEstate\\3_UC (Small Layouts)\\UC_IndividualProperties.cs",
+              "RelativeDocumentMoniker": "TerraVerdeRealEstate\\3_UC (Small Layouts)\\UC_IndividualProperties.cs",
+              "ToolTip": "C:\\Users\\CJ Elarcosa\\source\\repos\\TerraVerdeMain\\TerraVerdeRealEstate\\TerraVerdeRealEstate\\3_UC (Small Layouts)\\UC_IndividualProperties.cs",
+              "RelativeToolTip": "TerraVerdeRealEstate\\3_UC (Small Layouts)\\UC_IndividualProperties.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAqwG4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T02:36:24.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UC_S_Properties.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\TerraVerdeMain\\TerraVerdeRealEstate\\TerraVerdeRealEstate\\2_UC (Seller)\\UC_S_Properties.cs",
+              "RelativeDocumentMoniker": "TerraVerdeRealEstate\\2_UC (Seller)\\UC_S_Properties.cs",
+              "ToolTip": "C:\\Users\\joshu\\Desktop\\Adv Database\\TerraVerdeRealEstate\\TerraVerdeRealEstate\\2_UC (Seller)\\UC_S_Properties.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\joshu\\Desktop\\Adv Database\\TerraVerdeRealEstate\\TerraVerdeRealEstate\\2_UC (Seller)\\UC_S_Properties.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T02:52:59.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UC_S_Properties.cs",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\TerraVerdeMain\\TerraVerdeRealEstate\\TerraVerdeRealEstate\\2_UC (Seller)\\UC_S_Properties.cs",
+              "RelativeDocumentMoniker": "TerraVerdeRealEstate\\2_UC (Seller)\\UC_S_Properties.cs",
+              "ToolTip": "C:\\Users\\CJ Elarcosa\\source\\repos\\TerraVerdeMain\\TerraVerdeRealEstate\\TerraVerdeRealEstate\\2_UC (Seller)\\UC_S_Properties.cs",
+              "RelativeToolTip": "TerraVerdeRealEstate\\2_UC (Seller)\\UC_S_Properties.cs",
+              "ViewState": "AQIAAI8AAAAAAAAAAAAYwCkBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T09:33:00.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UC_C_Properties.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\TerraVerdeMain\\TerraVerdeRealEstate\\TerraVerdeRealEstate\\2_UC (Client)\\UC_C_Properties.cs",
+              "RelativeDocumentMoniker": "TerraVerdeRealEstate\\2_UC (Client)\\UC_C_Properties.cs",
+              "ToolTip": "C:\\Users\\joshu\\Desktop\\Adv Database\\TerraVerdeRealEstate\\TerraVerdeRealEstate\\2_UC (Client)\\UC_C_Properties.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\joshu\\Desktop\\Adv Database\\TerraVerdeRealEstate\\TerraVerdeRealEstate\\2_UC (Client)\\UC_C_Properties.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T02:33:47.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UC_C_Properties.cs",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\TerraVerdeMain\\TerraVerdeRealEstate\\TerraVerdeRealEstate\\2_UC (Client)\\UC_C_Properties.cs",
+              "RelativeDocumentMoniker": "TerraVerdeRealEstate\\2_UC (Client)\\UC_C_Properties.cs",
+              "ToolTip": "C:\\Users\\CJ Elarcosa\\source\\repos\\TerraVerdeMain\\TerraVerdeRealEstate\\TerraVerdeRealEstate\\2_UC (Client)\\UC_C_Properties.cs",
+              "RelativeToolTip": "TerraVerdeRealEstate\\2_UC (Client)\\UC_C_Properties.cs",
+              "ViewState": "AQIAAN4AAAAAAAAAAAAowCAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T02:33:50.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UC_S_Transactions.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\TerraVerdeMain\\TerraVerdeRealEstate\\TerraVerdeRealEstate\\2_UC (Seller)\\UC_S_Transactions.cs",
+              "RelativeDocumentMoniker": "TerraVerdeRealEstate\\2_UC (Seller)\\UC_S_Transactions.cs",
+              "ToolTip": "C:\\Users\\CJ Elarcosa\\source\\repos\\TerraVerdeMain\\TerraVerdeRealEstate\\TerraVerdeRealEstate\\2_UC (Seller)\\UC_S_Transactions.cs [Design]",
+              "RelativeToolTip": "TerraVerdeRealEstate\\2_UC (Seller)\\UC_S_Transactions.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T03:45:35.885Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UC_IndividualProperties.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\TerraVerdeMain\\TerraVerdeRealEstate\\TerraVerdeRealEstate\\3_UC (Small Layouts)\\UC_IndividualProperties.cs",
+              "RelativeDocumentMoniker": "TerraVerdeRealEstate\\3_UC (Small Layouts)\\UC_IndividualProperties.cs",
+              "ToolTip": "C:\\Users\\joshu\\Desktop\\Adv Database\\TerraVerdeRealEstate\\TerraVerdeRealEstate\\3_UC (Small Layouts)\\UC_IndividualProperties.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\joshu\\Desktop\\Adv Database\\TerraVerdeRealEstate\\TerraVerdeRealEstate\\3_UC (Small Layouts)\\UC_IndividualProperties.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T02:36:22.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form_AdminSide.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\TerraVerdeMain\\TerraVerdeRealEstate\\TerraVerdeRealEstate\\Form_AdminSide.cs",
+              "RelativeDocumentMoniker": "TerraVerdeRealEstate\\Form_AdminSide.cs",
+              "ToolTip": "C:\\Users\\joshu\\Desktop\\Adv Database\\TerraVerdeRealEstate\\TerraVerdeRealEstate\\Form_AdminSide.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\joshu\\Desktop\\Adv Database\\TerraVerdeRealEstate\\TerraVerdeRealEstate\\Form_AdminSide.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T09:24:49.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form_LogReg.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\TerraVerdeMain\\TerraVerdeRealEstate\\TerraVerdeRealEstate\\Form_LogReg.cs",
+              "RelativeDocumentMoniker": "TerraVerdeRealEstate\\Form_LogReg.cs",
+              "ToolTip": "C:\\Users\\joshu\\Desktop\\Adv Database\\TerraVerdeRealEstate\\TerraVerdeRealEstate\\Form_LogReg.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\joshu\\Desktop\\Adv Database\\TerraVerdeRealEstate\\TerraVerdeRealEstate\\Form_LogReg.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T09:24:52.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UC_S_PropertyDocumentation.cs",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\TerraVerdeMain\\TerraVerdeRealEstate\\TerraVerdeRealEstate\\2_UC (Seller)\\UC_S_PropertyDocumentation.cs",
+              "RelativeDocumentMoniker": "TerraVerdeRealEstate\\2_UC (Seller)\\UC_S_PropertyDocumentation.cs",
+              "ToolTip": "C:\\Users\\CJ Elarcosa\\source\\repos\\TerraVerdeMain\\TerraVerdeRealEstate\\TerraVerdeRealEstate\\2_UC (Seller)\\UC_S_PropertyDocumentation.cs",
+              "RelativeToolTip": "TerraVerdeRealEstate\\2_UC (Seller)\\UC_S_PropertyDocumentation.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAowD8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T03:45:52.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UC_S_PropertyDocumentation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\TerraVerdeMain\\TerraVerdeRealEstate\\TerraVerdeRealEstate\\2_UC (Seller)\\UC_S_PropertyDocumentation.cs",
+              "RelativeDocumentMoniker": "TerraVerdeRealEstate\\2_UC (Seller)\\UC_S_PropertyDocumentation.cs",
+              "ToolTip": "C:\\Users\\joshu\\Desktop\\Adv Database\\TerraVerdeRealEstate\\TerraVerdeRealEstate\\2_UC (Seller)\\UC_S_PropertyDocumentation.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\joshu\\Desktop\\Adv Database\\TerraVerdeRealEstate\\TerraVerdeRealEstate\\2_UC (Seller)\\UC_S_PropertyDocumentation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T03:45:20.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UC_S_Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\TerraVerdeMain\\TerraVerdeRealEstate\\TerraVerdeRealEstate\\2_UC (Seller)\\UC_S_Dashboard.cs",
+              "RelativeDocumentMoniker": "TerraVerdeRealEstate\\2_UC (Seller)\\UC_S_Dashboard.cs",
+              "ToolTip": "C:\\Users\\joshu\\Desktop\\Adv Database\\TerraVerdeRealEstate\\TerraVerdeRealEstate\\2_UC (Seller)\\UC_S_Dashboard.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\joshu\\Desktop\\Adv Database\\TerraVerdeRealEstate\\TerraVerdeRealEstate\\2_UC (Seller)\\UC_S_Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T09:26:37.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UC_S_ViewMyProperty.cs",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\TerraVerdeMain\\TerraVerdeRealEstate\\TerraVerdeRealEstate\\2_UC (Seller)\\UC_S_ViewMyProperty.cs",
+              "RelativeDocumentMoniker": "TerraVerdeRealEstate\\2_UC (Seller)\\UC_S_ViewMyProperty.cs",
+              "ToolTip": "C:\\Users\\CJ Elarcosa\\source\\repos\\TerraVerdeMain\\TerraVerdeRealEstate\\TerraVerdeRealEstate\\2_UC (Seller)\\UC_S_ViewMyProperty.cs",
+              "RelativeToolTip": "TerraVerdeRealEstate\\2_UC (Seller)\\UC_S_ViewMyProperty.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAUwIYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T09:29:11.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UC_S_ViewMyProperty.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\TerraVerdeMain\\TerraVerdeRealEstate\\TerraVerdeRealEstate\\2_UC (Seller)\\UC_S_ViewMyProperty.cs",
+              "RelativeDocumentMoniker": "TerraVerdeRealEstate\\2_UC (Seller)\\UC_S_ViewMyProperty.cs",
+              "ToolTip": "C:\\Users\\joshu\\Desktop\\Adv Database\\TerraVerdeRealEstate\\TerraVerdeRealEstate\\2_UC (Seller)\\UC_S_ViewMyProperty.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\joshu\\Desktop\\Adv Database\\TerraVerdeRealEstate\\TerraVerdeRealEstate\\2_UC (Seller)\\UC_S_ViewMyProperty.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T02:52:28.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UC_S_RecentClients.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\TerraVerdeMain\\TerraVerdeRealEstate\\TerraVerdeRealEstate\\3_UC (Small Layouts)\\UC_S_RecentClients.cs",
+              "RelativeDocumentMoniker": "TerraVerdeRealEstate\\3_UC (Small Layouts)\\UC_S_RecentClients.cs",
+              "ToolTip": "C:\\Users\\joshu\\Desktop\\Adv Database\\TerraVerdeRealEstate\\TerraVerdeRealEstate\\3_UC (Small Layouts)\\UC_S_RecentClients.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\joshu\\Desktop\\Adv Database\\TerraVerdeRealEstate\\TerraVerdeRealEstate\\3_UC (Small Layouts)\\UC_S_RecentClients.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T02:52:32.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UC_S_SellingProperty.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\TerraVerdeMain\\TerraVerdeRealEstate\\TerraVerdeRealEstate\\2_UC (Seller)\\UC_S_SellingProperty.cs",
+              "RelativeDocumentMoniker": "TerraVerdeRealEstate\\2_UC (Seller)\\UC_S_SellingProperty.cs",
+              "ToolTip": "C:\\Users\\joshu\\Desktop\\Adv Database\\TerraVerdeRealEstate\\TerraVerdeRealEstate\\2_UC (Seller)\\UC_S_SellingProperty.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\joshu\\Desktop\\Adv Database\\TerraVerdeRealEstate\\TerraVerdeRealEstate\\2_UC (Seller)\\UC_S_SellingProperty.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T03:45:23.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UC_C_BuyingProperty.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\TerraVerdeMain\\TerraVerdeRealEstate\\TerraVerdeRealEstate\\2_UC (Client)\\UC_C_BuyingProperty.cs",
+              "RelativeDocumentMoniker": "TerraVerdeRealEstate\\2_UC (Client)\\UC_C_BuyingProperty.cs",
+              "ToolTip": "C:\\Users\\joshu\\Desktop\\Adv Database\\TerraVerdeRealEstate\\TerraVerdeRealEstate\\2_UC (Client)\\UC_C_BuyingProperty.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\joshu\\Desktop\\Adv Database\\TerraVerdeRealEstate\\TerraVerdeRealEstate\\2_UC (Client)\\UC_C_BuyingProperty.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T02:24:10.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UC_C_Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\TerraVerdeMain\\TerraVerdeRealEstate\\TerraVerdeRealEstate\\2_UC (Client)\\UC_C_Dashboard.cs",
+              "RelativeDocumentMoniker": "TerraVerdeRealEstate\\2_UC (Client)\\UC_C_Dashboard.cs",
+              "ToolTip": "C:\\Users\\CJ Elarcosa\\source\\repos\\TerraVerdeMain\\TerraVerdeRealEstate\\TerraVerdeRealEstate\\2_UC (Client)\\UC_C_Dashboard.cs",
+              "RelativeToolTip": "TerraVerdeRealEstate\\2_UC (Client)\\UC_C_Dashboard.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAiwMIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T04:28:12.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UC_S_Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\TerraVerdeMain\\TerraVerdeRealEstate\\TerraVerdeRealEstate\\2_UC (Seller)\\UC_S_Dashboard.cs",
+              "RelativeDocumentMoniker": "TerraVerdeRealEstate\\2_UC (Seller)\\UC_S_Dashboard.cs",
+              "ToolTip": "C:\\Users\\CJ Elarcosa\\source\\repos\\TerraVerdeMain\\TerraVerdeRealEstate\\TerraVerdeRealEstate\\2_UC (Seller)\\UC_S_Dashboard.cs",
+              "RelativeToolTip": "TerraVerdeRealEstate\\2_UC (Seller)\\UC_S_Dashboard.cs",
+              "ViewState": "AQIAALsAAAAAAAAAAAAIwOIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T07:49:36.609Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 222,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UC_S_Transactions.cs",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\TerraVerdeMain\\TerraVerdeRealEstate\\TerraVerdeRealEstate\\2_UC (Seller)\\UC_S_Transactions.cs",
+              "RelativeDocumentMoniker": "TerraVerdeRealEstate\\2_UC (Seller)\\UC_S_Transactions.cs",
+              "ToolTip": "C:\\Users\\CJ Elarcosa\\source\\repos\\TerraVerdeMain\\TerraVerdeRealEstate\\TerraVerdeRealEstate\\2_UC (Seller)\\UC_S_Transactions.cs",
+              "RelativeToolTip": "TerraVerdeRealEstate\\2_UC (Seller)\\UC_S_Transactions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T05:25:08.852Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
